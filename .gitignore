@@ -7,3 +7,6 @@ system/Snapmaker/*
 !system/Snapmaker/filament/
 system/Snapmaker/filament/*
 !system/Snapmaker/filament/filament_allow_list.json
+!system/OrcaFilamentLibrary.json
+!system/OrcaFilamentLibrary/
+!system/OrcaFilamentLibrary/**
