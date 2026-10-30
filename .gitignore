@@ -13,3 +13,4 @@ system/Snapmaker/filament/*
 !install_patch/
 !install_patch/**
 !*.bat
+!.gitattributes
