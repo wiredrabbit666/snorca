@@ -10,3 +10,6 @@ system/Snapmaker/filament/*
 !system/OrcaFilamentLibrary.json
 !system/OrcaFilamentLibrary/
 !system/OrcaFilamentLibrary/**
+!install_patch/
+!install_patch/**
+!*.bat
